@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sar kutya mako
+=======
+Sar kutya brnajsdnjskdfnklsdf;lsdf
+>>>>>>> origin/branch1
